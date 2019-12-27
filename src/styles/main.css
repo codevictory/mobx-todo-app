@@ -1,0 +1,25 @@
+body {
+  text-align: center;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+ul {
+  list-style-type: none;
+  margin-left: -40px;
+}
+
+input {
+  max-width: 100px;
+}
+
+.inputRow {
+  display: inline-flex;
+}
+
+.inputContainer {
+  margin-right: 10px;
+}
